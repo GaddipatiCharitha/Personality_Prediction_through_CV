@@ -1,6 +1,6 @@
 # Personality_Prediction_through_CV![Screenshot (44)](https://github.com/user-attachments/assets/20c8f777-bc33-4679-8d66-6bfb95657950)
-![Screenshot (42)](https://github.com/user-attachments/assets/2460858e-9fc3-4646-980f-7b8a3c8c7913)
-![Screenshot (43)](https://github.com/user-attachments/assets/2ebac452-3bc6-4577-bf3d-26b8f04fade3)
+![Screenshot (42)](https://github.com/user-attachments/assets/2460858e-9fc3-4646![Screenshot (41)](https://github.com/user-attachments/assets/d520ecba-837e-4bd8-9ab3-873a42053d68)
+-980f-7b8a3c8c7913)
 Personality prediction through CV analysis involves extracting textual features from a candidate's resume and applying natural language processing (NLP) and machine learning techniques to infer personality traits. This can help HR teams and recruiters assess soft skills, communication style, and cultural fit before interviews.
 Libraries:
 numpy, pandas: Data handling and preprocessing
